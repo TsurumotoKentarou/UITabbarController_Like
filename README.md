@@ -1,17 +1,13 @@
-# uitabbarcontroller_like
+# このリポジトリについて
 
-A new Flutter application.
+iOS の UITabbarController を Flutter で実現した。
 
-## Getting Started
+UIは**BottomNavigationBar**、画面の状態保持は**IndexedStack**を使用している。
 
-This project is a starting point for a Flutter application.
+# キャプチャ動画
 
-A few resources to get you started if this is your first Flutter project:
+![capture](https://user-images.githubusercontent.com/15685633/96128277-1af45880-0f30-11eb-826c-2c5a9be07f8f.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# UITabbarController_Like
+# 開発環境
+* Flutter 1.22.0
+* Dart 2.10.0
